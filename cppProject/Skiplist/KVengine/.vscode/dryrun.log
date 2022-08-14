@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/brightdust/cppProject/Skiplist/KVengine'
+g++ -o out main.cpp KVengine/KVengine.cpp --std=c++17 -pthread
+make: Leaving directory '/home/brightdust/cppProject/Skiplist/KVengine'
+ 
